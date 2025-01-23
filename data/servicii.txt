@@ -1,0 +1,3 @@
+201,Instalare software,200,120
+202,Reparatie laptop,60,60
+203,Curatare laptop,120,30

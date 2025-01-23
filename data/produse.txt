@@ -1,0 +1,3 @@
+101,Laptop,4500,IT
+102,Masina tocat,759,Electrocasnice
+103,Aspirator,800,Electrocasnice
